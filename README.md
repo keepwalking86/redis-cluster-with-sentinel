@@ -1,4 +1,4 @@
-#Redis Cluster with Sentinel
+# Redis Cluster with Sentinel
 
 - Install Redis from source
 
