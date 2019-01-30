@@ -4,11 +4,13 @@
 
 - Setup Redis cluster with sentinel
 
+- HA Redis Sentinel with HAProxy
+
 ## Requirements
 
-- Open redis ports to any limited IPs
+- Open redis ports to any specify IPs
 
-- Install & run Redis on CentOS7/Ubuntu-16.04+
+- Install & Setup Redis on CentOS7/Ubuntu-16.04+
 
 <img src="images/redis-cluster-with-sentinel.jpg" />
 
